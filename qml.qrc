@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>flag_france.png</file>
+        <file>flag_uk.png</file>
+        <file>flag_german.png</file>
+    </qresource>
+</RCC>
