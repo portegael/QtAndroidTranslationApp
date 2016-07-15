@@ -23,6 +23,7 @@ signals:
 private:
     QGuiApplication *m_application;
     QTranslator *m_translator;
+    QString m_language;
 };
 
 #endif // TRANSLATION_H
